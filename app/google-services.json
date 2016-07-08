@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "269116149494",
+    "project_id": "corpus-15b42"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269116149494:android:0661a9176388aa82",
+        "android_client_info": {
+          "package_name": "com.example.leo.corpus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccQCWC_7Z1W4HWNcgeuVaLm4LmyemTLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

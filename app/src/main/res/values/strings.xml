@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Corpus</string>
+    <string name="some_text">Lista de casetas</string>
+    <string name="some_hint">Buscar&#8230;</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mapas">Map</string>
+    <string name="title_activity_mapa">Map</string>
+
+</resources>
